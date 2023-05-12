@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home office Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.043">
+  <properties />
+  
+  
+            <testcase name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" time="2.015" classname="uk.gov.homeoffice.testsuite.VisaConfirmationTest" />
+                <testcase name="anAustralianComingToUKForTourism" time="4.510" classname="uk.gov.homeoffice.testsuite.VisaConfirmationTest" />
+                <testcase name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" time="1.518" classname="uk.gov.homeoffice.testsuite.VisaConfirmationTest" />
+      
+</testsuite>
